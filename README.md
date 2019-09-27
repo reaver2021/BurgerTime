@@ -1,9 +1,14 @@
 # BurgerTime
+Simple Full-Stack Restaurant App
 
-This app uses Handlebars, MySQL, Node, Express, and a homemade ORM to create a burger logger. I followed the MVC design pattern and Node to Query the route data for the app. Handlebars was used to generate all of my HTML.
+This app takes a user's input, adds it to a database, and updates it.
 
-<h1>Instructions</h1>
-Type a burger name into the app and add it.
-Burger will be added to the "Burgers Available to Eat" section of the page.
-Select a burger you would like to Devour from the "Burgers Available to Eat List".
-Burger will be moved to the "Burgers That Have Been Devoured" section of the page.
+<h1>Technology Used</h1>
+<ul>
+<li>UI Kit for CSS Framework</li>
+<li>Node + Express for Routes</li>
+<li>Handlebars for Views</li>
+<li>MySQL Database</li>
+<li>ORM Creation</li>
+<li>JSON Data Structure</li>
+</ul>

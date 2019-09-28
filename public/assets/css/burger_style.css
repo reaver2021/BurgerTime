@@ -1,37 +1,23 @@
 .jumbotron {
-    background-image: url("/assets/img/background2.jpg");
+    background-image: url("../img/background2.jpg");
     background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    margin-top: 10px;
-}
-
-.jumbotron > h1 {
-    font-family: 'Creepster', cursive;
-}
-
-#newburger {
-    border-radius: 5px;
-}
-
-#color-override {
-    color: #fff;
-}
-
-#lefthead {
-    background-color: #5cb85c;
+    background-position: right;
+    background-color: #000000;
+    color: #ffffff;
+    margin-top: 3%;
+  }
+  #newburger {
+    color: #5c5c5c;
+  }
+  #leftside {
+    background-color: #5c5c5c;
     color: white;
     text-align: center;
-    font-size: 1.2em;
-}
-
-#eatbutton, #trashbutton {
-    float: right;
-}
-
-#righthead {
-    background-color: #f0ad4e;
+    font-size: 1.3em;
+  }
+  #rightside {
+    background-color: #e49322;
     color: white;
     text-align: center;
-    font-size: 1.2em;
-}
+    font-size: 1.3em;
+  }

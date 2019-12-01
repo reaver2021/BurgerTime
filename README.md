@@ -1,6 +1,8 @@
 # BurgerTime
 Simple Full-Stack Restaurant App
 
+Link: https://secure-lowlands-35571.herokuapp.com/
+
 This app takes a user's input, adds it to a database, and updates it.
 
 <h1>Technology Used</h1>
